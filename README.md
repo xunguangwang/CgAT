@@ -12,7 +12,7 @@ My dependencies are as follows:
 - pytorch 1.12.0
 - torchvision 0.13.0
 - pillow 9.0.1
-- pandas 1.4.2
+- numpy 1.21.5
 - cudatoolkit 11.3.1
 
 
@@ -35,7 +35,7 @@ If you find this work is useful, please cite the following:
 @inproceedings{wang2023cgat,
   title={CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval},
   author={Wang, Xunguang and Lin, Yiqun and Li, Xiaomeng},
-  booktitle={Proceedings of the ACM Web Conference},
+  booktitle={Proceedings of the ACM Web Conference (WWW)},
   year={2023}
 }
 ```
